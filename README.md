@@ -1,2 +1,2 @@
-# curso-git
- repositorio ex curso git 
+# Curso Git 
+ Repositorio exemplo curso Git e Github.
